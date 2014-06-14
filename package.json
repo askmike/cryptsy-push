@@ -1,6 +1,6 @@
 {
   "name": "cryptsy-push",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cryptsy Push API wrapper",
   "keywords": [
     "cryptsy",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/askmike/cryptsy-pusher"
+    "url": "https://github.com/askmike/cryptsy-push"
   },
   "main": "cryptsy.js",
   "engines": {
     "node": ">= 0.7"
   },
   "bugs": {
-    "url": "https://github.com/askmike/cryptsy-pusher/issues",
+    "url": "https://github.com/askmike/cryptsy-push/issues",
     "email": "mike@mvr.me"
   },
   "readmeFilename": "README.md"

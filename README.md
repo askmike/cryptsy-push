@@ -1,4 +1,4 @@
-# cryptsy-pusher
+# cryptsy-push
 
 Nodejs Wrapper for the Cryptsy Pusher API.
 
@@ -6,7 +6,7 @@ Nodejs Wrapper for the Cryptsy Pusher API.
 
 Install:
 
-    npm install cryptsy-pusher
+    npm install cryptsy-push
 
 Use:
 
