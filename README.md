@@ -1,4 +1,4 @@
-# bitstamp-ws
+# cryptsy-pusher
 
 Nodejs Wrapper for the Cryptsy Pusher API.
 
